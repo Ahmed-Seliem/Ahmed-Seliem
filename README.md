@@ -41,7 +41,7 @@ An Arabic-first access control system for an industrial site. ANPR cameras read 
 
 **Tech:** ASP.NET Core (.NET 9) MVC + Web API · Clean Architecture · EF Core 9 · SQL Server · Identity + JWT · SignalR · Serilog · Swagger · IIS
 
-<!-- <p><img src="images/parking-1.png" width="49%"> <img src="images/parking-2.png" width="49%"></p> -->
+<p><img src="images/parking-1.png" width="49%"> <img src="images/parking-2.png" width="49%"></p>
 
 <details>
 <summary><b>Highlights</b></summary>
@@ -60,7 +60,7 @@ A reservation platform for employees and pensioners covering **summer-resort uni
 
 **Tech:** ASP.NET Core (.NET 8) MVC + Web API · Clean Architecture · EF Core 9 · SQL Server · OpenID Connect + JWT (IAM) · Intalio CASE · Form.io · AutoMapper · Serilog
 
-<!-- <p><img src="images/ecm-1.png" width="49%"> <img src="images/ecm-2.png" width="49%"></p> -->
+ <p><img src="images/ecm-1.png" width="49%"> <img src="images/ecm-2.png" width="49%"></p> 
 
 <details>
 <summary><b>Highlights</b></summary>
@@ -80,7 +80,7 @@ A platform for selling and delivering online courses. Students pay, watch protec
 
 **Tech:** ASP.NET Core 8 MVC · Clean Architecture · CQRS (MediatR) · EF Core 8 · SQL Server · Identity · SignalR · Hangfire · Stripe · QuestPDF · EPPlus
 
-<!-- <p><img src="images/lms-1.png" width="49%"> <img src="images/lms-2.png" width="49%"></p> -->
+ <p><img src="images/lms-1.png" width="49%"> <img src="images/lms-2.png" width="49%"></p> 
 
 <details>
 <summary><b>Highlights</b></summary>
@@ -99,7 +99,7 @@ A pharmacy management platform with row-level tenant isolation on a shared datab
 
 **Tech:** ASP.NET Core (.NET 9) MVC · Clean Architecture · EF Core · SQL Server · Identity · Bootstrap 5 · DataTables
 
-<!-- <p><img src="images/pharmacy-1.png" width="49%"> <img src="images/pharmacy-2.png" width="49%"></p> -->
+ <p><img src="images/pharmacy-1.png" width="49%"> <img src="images/pharmacy-2.png" width="49%"></p> 
 
 <details>
 <summary><b>Highlights</b></summary>
@@ -120,6 +120,9 @@ A pharmacy management platform with row-level tenant isolation on a shared datab
 | Project | Description | Tech |
 | --- | --- | --- |
 | **ArkanSoft Company**| Bilingual company profile (Home, About, Services, Portfolio, Clients, Blog, Contact) with RTL Arabic, a language switcher and a protected contact form | .NET 8 · Umbraco 13 LTS · Bootstrap 5 |
+
+<p><b>ArkanSoft Company</b><br><img src="images/arkansoft-1.png" width="49%"> <img src="images/arkansoft-2.png" width="49%"></p>
+
 | **Eastern Company** | CMS website with a custom dashboard for forms and content editing | Umbraco MVC · C# |
 | **Nile Techno / Flowers Aromatic** | Responsive company websites | HTML · CSS · JavaScript · jQuery |
 
