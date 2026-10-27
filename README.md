@@ -7,15 +7,28 @@ I build bilingual **Arabic / English (RTL)** applications: secure role-based pla
 
 ---
 
-## 🛠️ Tech stack
+## 🛠️ Tech Stack
 
-**Backend:** C# · .NET 6 / 8 / 9 · ASP.NET Core MVC & Web API · ASP.NET MVC · Web Forms · EF Core · LINQ · MediatR (CQRS) · FluentValidation · AutoMapper · SignalR · Hangfire · Hosted Services · Serilog
-**Data:** SQL Server (T-SQL, stored procedures, query optimization) · MySQL · Redis
-**Frontend:** JavaScript · jQuery · Angular · Knockout.js · Form.io · Bootstrap 5 (RTL) · HTML / CSS
-**Security & Auth:** OpenID Connect · JWT Bearer · ASP.NET Identity · Role & policy-based authorization · CSP · CSRF protection · Rate limiting
-**CMS & Workflow:** Umbraco 13 · SharePoint (document management, workflows, custom lists) · Intalio CASE (custom workflow activities)
-**Architecture:** Clean Architecture · Onion Architecture · Repository Pattern · Dependency Injection · REST APIs
-**Tools:** Visual Studio · Git · GitLab · IIS · Swagger · Postman · Unit Testing · Playwright / Puppeteer
+**Backend:**  
+C# · .NET 6 / 8 / 9 · ASP.NET Core MVC & Web API · ASP.NET MVC · Web Forms · EF Core · LINQ · MediatR (CQRS) · FluentValidation · AutoMapper · SignalR · Hangfire · Hosted Services · Serilog
+
+**Data:**  
+SQL Server (T-SQL, stored procedures, query optimization) · MySQL · Redis
+
+**Frontend:**  
+JavaScript · jQuery · Angular · Knockout.js · Form.io · Bootstrap 5 (RTL) · HTML / CSS
+
+**Security & Auth:**  
+OpenID Connect · JWT Bearer · ASP.NET Identity · Role & policy-based authorization · CSP · CSRF protection · Rate limiting
+
+**CMS & Workflow:**  
+Umbraco 13 · SharePoint (document management, workflows, custom lists) · Intalio CASE (custom workflow activities)
+
+**Architecture:**  
+Clean Architecture · Onion Architecture · Repository Pattern · Dependency Injection · REST APIs
+
+**Tools:**  
+Visual Studio · Git · GitLab · IIS · Swagger · Postman · Unit Testing · Playwright / Puppeteer
 
 ---
 
