@@ -3,7 +3,7 @@
 **Full-Stack .NET Developer** with 5+ years of experience building business systems with **ASP.NET Core, Clean Architecture and SQL Server**.
 Currently a .NET Developer on the Professional Services team at **EverteamGS (Intalio)**.
 
-I build bilingual **Arabic / English (RTL)** applications: secure role-based platforms, workflow-integrated enterprise systems, offline-first systems with hardware integration, and CMS websites.
+I build and modernize bilingual Arabic/English applications, including RTL platforms, enterprise workflow systems, secure role-based applications, offline-first solutions with hardware integration, and CMS websites. I also maintain and enhance legacy systems, integrate with existing platforms, and adapt to different technologies and architectures to deliver practical, reliable solutions.
 
 ---
 
