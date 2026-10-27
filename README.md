@@ -41,7 +41,7 @@ An Arabic-first access control system for an industrial site. ANPR cameras read 
 
 **Tech:** ASP.NET Core (.NET 9) MVC + Web API · Clean Architecture · EF Core 9 · SQL Server · Identity + JWT · SignalR · Serilog · Swagger · IIS
 
-<p><img src="images/parking-1.png" width="49%"> <img src="images/parking-2.png" width="49%"></p>
+<p><img src="images/parking-1.png" height="260"> <img src="images/parking-2.png" height="260"></p>
 
 <details>
 <summary><b>Highlights</b></summary>
